@@ -21,6 +21,7 @@ function App() {
           count is {count}
         </button>
         <p>
+          Admin rule
         </p>
       </div>
     </div>
